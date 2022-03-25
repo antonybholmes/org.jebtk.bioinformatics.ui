@@ -1,0 +1,6 @@
+[
+  {"name":"bed","description":"UCSC BED", "filters":["bed"]},
+  {"name":"bedgraph","description":"UCSC BedGraph", "filters":["bedgraph"]},
+  {"name":"fasta","description":"FASTA", "filters":["fa","fasta"]},
+  {"name":"matrix","description":"All Matrix Files", "filters":["csv", "txt", "xls", "xlsx"]}
+]

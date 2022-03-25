@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings>
+	<setting name="motifs">
+		<setting name="letters">
+			<setting name="font">
+				<setting name="family" value="Arial" />
+				<setting name="style" value="bold" />
+				<setting name="size" value="72" />
+			</setting>
+		</setting>
+	</setting>
+</settings>
